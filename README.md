@@ -33,7 +33,4 @@ This project features a Power BI dashboard that analyzes Blinkit’s sales data 
 - DAX
 - Excel for Data Preprocessing
 
----
 
-## 📸 Dashboard Preview
-(Screenshots will be uploaded soon)
